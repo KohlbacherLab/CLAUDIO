@@ -1,4 +1,4 @@
-**Note: This repository is no longer actively maintained. A newer and faster version of this project is available at https://github.com/ElhabashyLab/CLAUDIOz**
+**Note: This repository is no longer actively maintained. A newer and faster version of this project is available at https://github.com/ElhabashyLab/CLAUDIO**
 
 # CLAUDIO 
 
