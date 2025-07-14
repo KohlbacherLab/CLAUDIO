@@ -1,4 +1,7 @@
+**Note: This repository is no longer actively maintained. A newer and faster version of this project is available at https://github.com/ElhabashyLab/CLAUDIOz**
+
 # CLAUDIO 
+
 
 *CLAUDIO*, the tool for "**C**ross-**l**inking **a**nalysis **u**sing **di**stances and **o**verlaps", allows
 for an in-depth evaluation of structure and sequence information, automating many necessary post-experiment analysis. 
